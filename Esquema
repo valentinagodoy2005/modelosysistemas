@@ -1,1 +1,91 @@
-valen
+Esquema del Estudio de Sistemas para Sabores V&V 
+
+1. Introducción 
+
+Descripción del Negocio: 
+
+Es una casa de comidas rápidas especializada en la venta de pizzas y empanadas. El objetivo principal del negocio es ofrecer comidas rápidas de calidad con un enfoque en la eficiencia del servicio al cliente. 
+
+Objetivo del Estudio de Sistemas: 
+
+Mejorar la organización interna y la atención al cliente mediante la implementación de un sistema automatizado que gestione los pedidos, la producción y el servicio. 
+
+2. Análisis del Sistema Actual 
+
+Descripción de los Procesos Actuales: 
+
+Detalle de cómo se gestionan actualmente los pedidos, la preparación de alimentos, el inventario y el servicio al cliente. 
+
+3. Requisitos del Sistema 
+
+Requisitos Funcionales: 
+
+Descripción de las funcionalidades que debe tener el nuevo sistema, como: 
+
+Gestión de pedidos (creación, modificación, cancelación). 
+
+Gestión de inventario. 
+
+Interfaz para empleados y clientes. 
+
+Sistema de notificaciones para pedidos listos. 
+
+Requisitos No Funcionales: 
+
+Consideraciones sobre la usabilidad, escalabilidad, seguridad, rendimiento, y mantenimiento del sistema. 
+
+4. Propuesta de Solución 
+
+Descripción General del Sistema: 
+
+Visión general del sistema propuesto, incluyendo su arquitectura, tecnologías a utilizar (por ejemplo, una aplicación web o móvil), y la forma en que se integrará con los procesos actuales. 
+
+Diagramas de Flujo: 
+
+Representación visual del flujo de información y procesos dentro del sistema, como el flujo desde la toma de pedido hasta la entrega. 
+
+Modelo de Datos: 
+
+Esquema de la base de datos, mostrando las tablas principales (pedidos, clientes, inventario, etc.) y sus relaciones. 
+
+5. Planificación del Proyecto 
+
+Cronograma de Desarrollo: 
+
+Planificación temporal del proyecto, indicando las fases del desarrollo del sistema, desde el análisis hasta la implementación y pruebas. 
+
+Plan de Implementación: 
+
+Estrategia para la implementación del sistema, incluyendo la capacitación del personal y la migración de datos si es necesario. 
+
+6. Pruebas y Validación 
+
+Plan de Pruebas: 
+
+Descripción de las pruebas a realizar para asegurar que el sistema cumpla con los requisitos especificados. 
+
+Validación con Usuarios: 
+
+Proceso de validación del sistema con usuarios finales (empleados y clientes) para asegurar que es intuitivo y eficaz. 
+
+7. Mantenimiento y Actualización 
+
+Plan de Mantenimiento: 
+
+Estrategia para el mantenimiento del sistema una vez implementado, incluyendo la corrección de errores y la adaptación a posibles cambios en el negocio. 
+
+Actualizaciones Futuras: 
+
+Identificación de posibles mejoras y actualizaciones que podrían añadirse al sistema en el futuro. 
+
+Documentación Apropiada 
+
+Manual de Usuario: Guía detallada para los usuarios del sistema, explicando cómo utilizar cada una de las funcionalidades. 
+
+Documentación Técnica: Información técnica sobre la arquitectura del sistema, el código fuente, y las configuraciones necesarias. 
+
+Documentación de Pruebas: Resultados de las pruebas realizadas, incluyendo casos de prueba y resultados esperados. 
+
+ 
+
+ 
