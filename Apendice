@@ -1,1 +1,84 @@
-valen
+Apéndice 
+
+El sistema de pedidos de Sabores VyV es una página web diseñada para mejorar la eficiencia y la satisfacción del cliente en un local de comidas rápidas. El sistema permite a los clientes realizar pedidos de manera rápida y sencilla, y facilita la gestión de los pedidos para el personal del local. 
+
+Componentes del Sistema 
+
+Interfaz de Usuario (IU): 
+
+ 
+
+Pantalla de Inicio: Dónde se encontrarán promociones, delivery, o la opción de retirar en el local. 
+
+Pantalla de Pedido: Permite a los clientes seleccionar productos del menú, especificar cantidades, y sabores. 
+
+Pantalla de Confirmación de Pedido: Muestra un resumen del pedido para su revisión antes de la confirmación. 
+
+Pantalla de Pago: Opciones de pago, como efectivo, tarjeta de crédito/débito, y otras plataformas de pago digital. 
+
+ 
+
+Backend del Sistema: 
+
+Base de Datos: Almacena información sobre los productos del menú, pedidos, clientes, y transacciones. 
+
+Servidor de Aplicaciones: Maneja las solicitudes de los clientes y coordina la comunicación entre la interfaz de usuario y la base de datos. 
+
+ 
+
+Gestión de Pedidos: 
+
+Panel de Administración: Permite al personal del local ver y gestionar los pedidos en tiempo real, actualizar el estado de los pedidos, y generar informes. 
+
+ 
+
+Funcionalidades Clave 
+
+Gestión de Menú: 
+
+Añadir, modificar o eliminar productos del menú. 
+
+Categorizar productos (Pizza, empanadas, medialunas). 
+
+Realización de Pedidos: 
+
+Selección de productos y cantidades. 
+
+Instrucciones especiales para cada producto. 
+
+Confirmación y pago del pedido. 
+
+Seguimiento de Pedidos: 
+
+Visualización del estado del pedido (en preparación, listo para recoger, entregado). 
+
+Notificaciones al cliente sobre el estado de su pedido. 
+
+Historial de Pedidos: 
+
+Registro de todos los pedidos realizados por cada cliente. 
+
+Opciones para volver a ordenar desde el historial. 
+
+ 
+Beneficios del Sistema 
+
+Para los Clientes: 
+
+Experiencia de pedido más rápida y conveniente. 
+
+Transparencia en el estado del pedido. 
+
+Opciones de pago diversificadas. 
+
+Para el Personal del Local: 
+
+Mejora en la organización y gestión de pedidos. 
+
+Reducción de errores en la toma de pedidos. 
+
+Información valiosa para la toma de decisiones y optimización del menú. 
+
+ 
+
+ 
