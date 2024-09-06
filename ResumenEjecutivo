@@ -1,1 +1,53 @@
+Resumen ejecutivo 
 
+Comenzó a gestarse el sistema atreves que nos encontramos que un lugar de comidas rápidas, no tenía la opción de ya sea pedir por aplicación y facilitarles a los empleados mejor organización y mejor atención a sus clientes.  
+
+Nos encontramos con que muchos establecimientos de comidas rápidas carecen de un sistema eficiente para la toma de pedidos mediante aplicaciones móviles. 
+
+Esto no solo genera demoras y desorganización, sino que también reduce la capacidad de atención al cliente. 
+
+En respuesta a esta necesidad, Sabores VyV se propone implementar un sistema que facilite a los empleados una mejor organización y proporcione a los clientes una experiencia de pedido rápida, sencilla y satisfactoria. 
+
+Nuestra misión es de proporcionar un sistema donde se pueda realizar pedidos mediante una PAGINA WEB. El sistema consiste en que al principio de la página te va a pedir que te logues, con los datos más importantes de iniciar sesión, para poder guardar y conservar esos datos. Además, te va a pedir una dirección para que se muestren los lugares más cercanos para poder pedir los alimentos. 
+
+El sistema va a ofrecer la variedad de productos donde va a ofrecer como múltiples sabores de empanadas, pizzas, etc. 
+
+Al mismo tiempo, buscamos optimizar la operación interna del restaurante, mejorando la organización y reduciendo el tiempo de espera. 
+
+ 
+
+Funcionalidades Clave: 
+
+Registro e Inicio de Sesión: Los usuarios podrán registrarse e iniciar sesión de manera segura, permitiendo almacenar su información personal y preferencias. 
+
+Geolocalización: La aplicación solicitará la dirección del usuario para mostrar los locales más cercanos, facilitando así la selección del punto de venta. 
+
+Catálogo de Productos: El sistema ofrecerá un amplio catálogo de productos, incluyendo múltiples sabores de empanadas, pizzas y meriendas. 
+
+Realización de Pedidos: Los clientes podrán seleccionar sus productos preferidos y realizar el pedido de forma rápida y sencilla. 
+
+Historial de Pedidos: La página permitirá a los usuarios consultar su historial de pedidos y repetir fácilmente sus selecciones anteriores. 
+
+Notificaciones en Tiempo Real: Los usuarios recibirán notificaciones en tiempo real sobre el estado de su pedido, desde la confirmación hasta la entrega. 
+
+ 
+
+Beneficios para el Cliente 
+
+Comodidad: Los clientes podrán realizar pedidos desde cualquier lugar y en cualquier momento, sin necesidad de hacer largas colas. 
+
+Personalización: Al almacenar las preferencias de los clientes, el sistema puede ofrecer recomendaciones personalizadas. 
+
+Rapidez: La automatización del proceso de pedido reduce significativamente los tiempos de espera. 
+
+Transparencia: Los clientes estarán informados en todo momento sobre el estado de su pedido. 
+
+ 
+
+ 
+
+Actualmente nos encontramos en mejoría con este sistema. Al acceder a la página, se le pedirá al usuario que inicie sesión con sus datos personales más importantes, permitiendo así guardar y conservar su información para futuras transacciones. Una vez iniciada la sesión, se solicitará una dirección para mostrar los locales más cercanos donde se pueden realizar pedidos o pedir por delivery. 
+
+Además, estamos formando las vistas del usuario donde sean llamativas y atractivas para el usuario, también cargando y guardando los datos de los clientes en nuestras BD. 
+
+Invitamos a todos nuestros clientes y futuros usuarios a experimentar de nuestra página de Sabores VyV y experimentar una nueva forma de disfrutar sus comidas favoritas. Estamos seguros de que nuestra propuesta de valor transformará positivamente la experiencia gastronómica de todos nuestros usuarios. 
